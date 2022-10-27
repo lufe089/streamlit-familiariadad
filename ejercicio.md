@@ -32,7 +32,7 @@ Diagramas disponibles en draw.io en este [link](https://drive.google.com/file/d/
     1. Agregue al menos dos controles de tipo "input widgets" en el archivo PruebaPage
     2. Intente organizar el contenido en dos columnas
     3. Pruebe el contenedor expander. Ponga texto dentro de este contenedor
-    4. Haga una lista de chequeo.  Defina el código para que según lo que según lo que seleccione se muestre un texto diferent
+    4. Haga una lista de chequeo.  Defina el código para que según lo que según lo que seleccione se muestre un texto diferente
 4. Funcionamiento de controles en la clase `MainView`
     1. En qué parte de ese archivo se dibuja la barra lateral.
     2. Observe el método `controlar_menu` del archivo MainView. ¿Para qué sirve la variable `self.menu_actual`?
