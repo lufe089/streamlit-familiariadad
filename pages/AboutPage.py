@@ -5,7 +5,7 @@ from controller.AppController import AppController
 def mostrar():
     return """
         #### 
-        Aplicación de strealit**.
+        Aplicación de **streamlit**.
 
         ####
         Ejemplo elaborado para @   por Luisa Rincón.

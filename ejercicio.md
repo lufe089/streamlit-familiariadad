@@ -39,5 +39,5 @@ Diagramas disponibles en draw.io en este [link](https://drive.google.com/file/d/
     3. Intente agregar una nueva opción a la barra lateral y pruebe que funciona
 
 ## Funciones especiales en python
-* Investigue para qué sirve el método __str__
+* Investigue para qué sirve el método ``__str__``
 

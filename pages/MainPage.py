@@ -35,15 +35,6 @@ class MainPage:
             #self.menu_actual = option_menu("Menu", ["About", "Prueba", "Aspirante"],
                                            #icons=['house', 'gear'], menu_icon="cast", default_index=1)
 
-    """
-    def controlar_menu(self):
-        # Filtro opciones de menu
-        if self.menu_actual == "About":
-            # Welcome message
-            welcome = st.expander(label="Instrucciones", expanded=True)
-        elif self.menu_actual == "[Métricas]Consultas sencillas":
-            self.dibujar_consulta_metricas()"""
-
 
 # Main call
 if __name__ == "__main__":
